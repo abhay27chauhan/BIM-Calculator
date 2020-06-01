@@ -1,4 +1,4 @@
-# BIM-Calculator
+# BMI-Calculator
 Calculate your BMI
 
 Steps to run on your System
